@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
        <Header/>
-      
+      {/* my routes */}
         <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
