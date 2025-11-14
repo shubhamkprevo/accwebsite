@@ -1,0 +1,22 @@
+.heroimg{
+    width: 100%;
+    height: 90vh;
+}
+
+.cardssec{
+    padding :3%
+}
+.cc{
+   margin-left: 5%;
+}
+
+.cimg{
+    width: 300px;
+    height: 205px;
+}
+
+.info{
+    padding :3%;
+    background-color: antiquewhite;
+    border: 1px dotted #ccc;
+}
