@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//d/prevoyance/CKYC-Protean/ckycrr-public-portal/ckycrr-re-portal/**)",
+      "WebFetch(domain:dev.ckycindia.dev)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
